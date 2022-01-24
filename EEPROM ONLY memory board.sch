@@ -529,37 +529,22 @@ type I, package type TS</description>
 <package3d name="PLCC-32" urn="urn:adsk.eagle:package:20814/1" type="box" library_version="3">
 <description>PLASTIC LEADED CHIP CARRIER
 rectangle, package type L</description>
-<packageinstances>
-<packageinstance name="PLCC-32"/>
-</packageinstances>
 </package3d>
 <package3d name="DIL28-6" urn="urn:adsk.eagle:package:20790/1" type="box" library_version="3">
 <description>Dual In Line
 package type P</description>
-<packageinstances>
-<packageinstance name="DIL28-6"/>
-</packageinstances>
 </package3d>
 <package3d name="SO28W" urn="urn:adsk.eagle:package:20803/2" type="model" library_version="3">
 <description>28-Lead Plastic Small Outline (SO)  Wide, 300 mil Body (SOIC)
 Source: http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf</description>
-<packageinstances>
-<packageinstance name="SO28W"/>
-</packageinstances>
 </package3d>
 <package3d name="VSOP28-8X13" urn="urn:adsk.eagle:package:20812/1" type="box" library_version="3">
 <description>Very Small Outline Package
 8 x 13.4 mm, package type VS</description>
-<packageinstances>
-<packageinstance name="VSOP28-8X13"/>
-</packageinstances>
 </package3d>
 <package3d name="TSOP28" urn="urn:adsk.eagle:package:20811/1" type="box" library_version="3">
 <description>Thin Small Outline Package Gull Wing
 type I, package type TS</description>
-<packageinstances>
-<packageinstance name="TSOP28"/>
-</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -6340,43 +6325,28 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <description>SPDT PTH Slide Switch
 Single-pole, double-throw (SPDT) switch.
 Dimensional Drawing</description>
-<packageinstances>
-<packageinstance name="SWITCH_SPDT_PTH_11.6X4.0MM"/>
-</packageinstances>
 </package3d>
 <package3d name="SWITCH_DPDT_SMD_AYZ0202" urn="urn:adsk.eagle:package:40160/1" type="box" library_version="1">
 <description>ITT Industries AYZ0202 DPDT Switch - SMD
 Double-pole, double-throw switches.
 Datasheet</description>
-<packageinstances>
-<packageinstance name="SWITCH_DPDT_SMD_AYZ0202"/>
-</packageinstances>
 </package3d>
 <package3d name="SWITCH_SPDT_PTH_11.6X4.0MM_LOCK" urn="urn:adsk.eagle:package:40181/1" type="box" library_version="1">
 <description>SPDT PTH Slide Switch - Locking Footprint
 Single-pole, double-throw (SPDT) switch.
 Warning: This is the LOCK version of this package. This package has offset PTH pins, which help to hold the part in place while soldering.
 Dimensional Drawing</description>
-<packageinstances>
-<packageinstance name="SWITCH_SPDT_PTH_11.6X4.0MM_LOCK"/>
-</packageinstances>
 </package3d>
 <package3d name="SWITCH_SPDT_PTH_11.6X4.0MM_KIT" urn="urn:adsk.eagle:package:40178/1" type="box" library_version="1">
 <description>SPDT PTH Slide Switch - KIT Footprint
 Single-pole, double-throw (SPDT) switch.
 Warning: This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.
 Dimensional Drawing</description>
-<packageinstances>
-<packageinstance name="SWITCH_SPDT_PTH_11.6X4.0MM_KIT"/>
-</packageinstances>
 </package3d>
 <package3d name="SWITCH_SPST_SMD_A" urn="urn:adsk.eagle:package:40179/1" type="box" library_version="1">
 <description>SPDT Slide Switch - SMD
 Single-pole, double-throw (SPDT) switch.
 Datasheet</description>
-<packageinstances>
-<packageinstance name="SWITCH_SPST_SMD_A"/>
-</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -7222,51 +7192,27 @@ Datasheet</description>
 <packages3d>
 <package3d name="F15D" urn="urn:adsk.eagle:package:6240793/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="F15D"/>
-</packageinstances>
 </package3d>
 <package3d name="F15H" urn="urn:adsk.eagle:package:6240794/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="F15H"/>
-</packageinstances>
 </package3d>
 <package3d name="F15HP" urn="urn:adsk.eagle:package:6240795/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="F15HP"/>
-</packageinstances>
 </package3d>
 <package3d name="F15V" urn="urn:adsk.eagle:package:6240796/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="F15V"/>
-</packageinstances>
 </package3d>
 <package3d name="F15VP" urn="urn:adsk.eagle:package:6240797/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="F15VP"/>
-</packageinstances>
 </package3d>
 <package3d name="HDF15V" urn="urn:adsk.eagle:package:6240799/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="HDF15V"/>
-</packageinstances>
 </package3d>
 <package3d name="F15VB" urn="urn:adsk.eagle:package:6240800/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="F15VB"/>
-</packageinstances>
 </package3d>
 <package3d name="HDF15H" urn="urn:adsk.eagle:package:6240798/1" type="box" library_version="2">
 <description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
-<packageinstances>
-<packageinstance name="HDF15H"/>
-</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -7696,21 +7642,12 @@ Based on the following sources:
 <packages3d>
 <package3d name="DIL16" urn="urn:adsk.eagle:package:922/2" type="model" library_version="5" library_locally_modified="yes">
 <description>Dual In Line Package</description>
-<packageinstances>
-<packageinstance name="DIL16"/>
-</packageinstances>
 </package3d>
 <package3d name="SO16" urn="urn:adsk.eagle:package:2010/1" type="box" library_version="5" library_locally_modified="yes">
 <description>Small Outline package 150 mil</description>
-<packageinstances>
-<packageinstance name="SO16"/>
-</packageinstances>
 </package3d>
 <package3d name="LCC20" urn="urn:adsk.eagle:package:2012/1" type="box" library_version="5" library_locally_modified="yes">
 <description>Leadless Chip Carrier Ceramic Package</description>
-<packageinstances>
-<packageinstance name="LCC20"/>
-</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -8264,9 +8201,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <package3d name="RESONATOR-SMD-3.2X1.3" urn="urn:adsk.eagle:package:37551/1" type="box" library_version="1">
 <description>3.2x1.3mm 3-Pin SMD Resonator
 Example datasheet (CSTCE_VH3L)</description>
-<packageinstances>
-<packageinstance name="RESONATOR-SMD-3.2X1.3"/>
-</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -9210,9 +9144,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_LOCK" urn="urn:adsk.eagle:package:38137/1" type="box" library_version="1">
 <description>Plated Through Hole -8 Pin Locking Footprint
@@ -9224,9 +9155,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_LOCK"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_LOCK_LONGPADS" urn="urn:adsk.eagle:package:38140/1" type="box" library_version="1">
 <description>Plated Through Hole -8 Pin Locking Footprint with Long Pads
@@ -9238,9 +9166,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_LOCK_LONGPADS"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_LONGPADS" urn="urn:adsk.eagle:package:38142/1" type="box" library_version="1">
 <description>Plated Through Hole -8 Pin Long Pads
@@ -9251,9 +9176,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_LONGPADS"/>
-</packageinstances>
 </package3d>
 <package3d name="SCREWTERMINAL-3.5MM-8" urn="urn:adsk.eagle:package:38143/1" type="box" library_version="1">
 <description>Screw Terminal  3.5mm Pitch -8 Pin PTH
@@ -9265,9 +9187,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="SCREWTERMINAL-3.5MM-8"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_SMD" urn="urn:adsk.eagle:package:38144/1" type="box" library_version="1">
 <description>SMD -8 Pin Vertical Female
@@ -9279,9 +9198,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_SMD"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_SMD_ALT" urn="urn:adsk.eagle:package:38148/1" type="box" library_version="1">
 <description>SMD -8 Pin Vertical Female
@@ -9294,9 +9210,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_SMD_ALT"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_SMD_COMBINED" urn="urn:adsk.eagle:package:38146/1" type="box" library_version="1">
 <description>SMD -8 Pin Vertical Female
@@ -9309,9 +9222,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_SMD_COMBINED"/>
-</packageinstances>
 </package3d>
 <package3d name="BM08B-SRSS-TB" urn="urn:adsk.eagle:package:38145/1" type="box" library_version="1">
 <description>JST Vertical Crimp Connect
@@ -9323,9 +9233,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="BM08B-SRSS-TB"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_SMD_MALE" urn="urn:adsk.eagle:package:38150/1" type="box" library_version="1">
 <description>SMD -8 Pin Vertical Male
@@ -9337,9 +9244,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_SMD_MALE"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_NO_SILK" urn="urn:adsk.eagle:package:38149/1" type="box" library_version="1">
 <description>Plated Through Hole -8 Pin No Silk
@@ -9350,9 +9254,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_NO_SILK"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_LOCK_NO_SILK" urn="urn:adsk.eagle:package:38147/1" type="box" library_version="1">
 <description>Plated Through Hole -8 Pin Locking Footprint No Silk
@@ -9364,9 +9265,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_LOCK_NO_SILK"/>
-</packageinstances>
 </package3d>
 <package3d name="1X08_FEMALE_LOCK" urn="urn:adsk.eagle:package:38151/1" type="box" library_version="1">
 <description>Plated Through Hole -8 Pin Locking Female Headers
@@ -9379,9 +9277,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_08
 </description>
-<packageinstances>
-<packageinstance name="1X08_FEMALE_LOCK"/>
-</packageinstances>
 </package3d>
 <package3d name="2X3-SHROUDED" urn="urn:adsk.eagle:package:38264/1" type="box" library_version="1">
 <description>Plated Through Hole - 2x3 Shrouded Header
@@ -9393,9 +9288,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_03x2
 </description>
-<packageinstances>
-<packageinstance name="2X3-SHROUDED"/>
-</packageinstances>
 </package3d>
 <package3d name="2X3_SMT_POSTS" urn="urn:adsk.eagle:package:38271/1" type="box" library_version="1">
 <description>Surface Mount - 2x3 Male Header with Keying Posts
@@ -9407,9 +9299,6 @@ Datasheet referenced for footprint
 Example device(s):
 CONN_03x2
 </description>
-<packageinstances>
-<packageinstance name="2X3_SMT_POSTS"/>
-</packageinstances>
 </package3d>
 <package3d name="2X3_POGO" urn="urn:adsk.eagle:package:38265/1" type="box" library_version="1">
 <description>Plated Through Hole - 2x3 Pogo Pins
@@ -9420,9 +9309,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_03x2
 </description>
-<packageinstances>
-<packageinstance name="2X3_POGO"/>
-</packageinstances>
 </package3d>
 <package3d name="2X3" urn="urn:adsk.eagle:package:38016/1" type="box" library_version="1">
 <description>Plated Through Hole - 2x3
@@ -9433,9 +9319,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_03x2
 </description>
-<packageinstances>
-<packageinstance name="2X3"/>
-</packageinstances>
 </package3d>
 <package3d name="2X3-NS" urn="urn:adsk.eagle:package:38013/1" type="box" library_version="1">
 <description>Plated Through Hole - 2x3 No Silk Outline
@@ -9446,9 +9329,6 @@ Pin pitch:0.1"
 Example device(s):
 CONN_03x2
 </description>
-<packageinstances>
-<packageinstance name="2X3-NS"/>
-</packageinstances>
 </package3d>
 <package3d name="2X3_SMD" urn="urn:adsk.eagle:package:38267/1" type="box" library_version="1">
 <description>Surface Mount - 2x3
@@ -9459,9 +9339,6 @@ Pin pitch:2.54mm
 Example device(s):
 CONN_03x2
 </description>
-<packageinstances>
-<packageinstance name="2X3_SMD"/>
-</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -12414,8 +12291,6 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R10" library="adafruit" deviceset="R-US_" device="R1206" value="10K"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R11" library="adafruit" deviceset="R-US_" device="R1206" value="10K"/>
-<part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C2" library="adafruit" deviceset="C-US" device="C1206" value="0.1uF"/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="C3" library="adafruit" deviceset="C-US" device="C1206" value="0.1uF"/>
@@ -12459,6 +12334,17 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="J6" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_08" device="SMD-STRAIGHT-ALT-FEMALE" package3d_urn="urn:adsk.eagle:package:38148/1"/>
+<part name="R32" library="adafruit" deviceset="R-US_" device="R1206" value="JMP"/>
+<part name="R33" library="adafruit" deviceset="R-US_" device="R1206" value="470ohm"/>
+<part name="R34" library="adafruit" deviceset="R-US_" device="R1206" value="JMP"/>
+<part name="RX2" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX3" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX4" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX5" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX6" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX7" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX8" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
+<part name="RX9" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
 </parts>
 <sheets>
 <sheet>
@@ -12606,13 +12492,6 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 </instance>
 <instance part="GND12" gate="1" x="180.34" y="106.68" smashed="yes">
 <attribute name="VALUE" x="177.8" y="104.14" size="1.778" layer="96"/>
-</instance>
-<instance part="R11" gate="G$1" x="248.92" y="99.06" smashed="yes" rot="R270">
-<attribute name="NAME" x="250.4186" y="102.87" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="245.618" y="102.87" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="GND13" gate="1" x="248.92" y="91.44" smashed="yes">
-<attribute name="VALUE" x="246.38" y="88.9" size="1.778" layer="96"/>
 </instance>
 <instance part="C2" gate="G$1" x="220.98" y="139.7" smashed="yes" rot="R90">
 <attribute name="NAME" x="220.345" y="140.716" size="1.778" layer="95" rot="R90"/>
@@ -12773,6 +12652,42 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <attribute name="VALUE" x="134.62" y="183.134" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="134.62" y="208.788" size="1.778" layer="95" font="vector"/>
 </instance>
+<instance part="R32" gate="G$1" x="403.098" y="280.416" smashed="yes" rot="R90">
+<attribute name="NAME" x="401.5994" y="276.606" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="406.4" y="276.606" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R33" gate="G$1" x="165.1" y="233.68" smashed="yes">
+<attribute name="NAME" x="161.29" y="235.1786" size="1.778" layer="95"/>
+<attribute name="VALUE" x="161.29" y="230.378" size="1.778" layer="96"/>
+</instance>
+<instance part="R34" gate="G$1" x="195.58" y="114.3" smashed="yes" rot="R90">
+<attribute name="NAME" x="194.0814" y="110.49" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="198.882" y="110.49" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="RX2" gate="G$1" x="299.72" y="238.76" smashed="yes">
+<attribute name="VALUE" x="297.18" y="236.22" size="1.778" layer="96" font="vector"/>
+</instance>
+<instance part="RX3" gate="G$1" x="322.58" y="236.22" smashed="yes">
+<attribute name="VALUE" x="320.04" y="233.68" size="1.778" layer="96" font="vector"/>
+</instance>
+<instance part="RX4" gate="G$1" x="297.18" y="220.98" smashed="yes">
+<attribute name="VALUE" x="294.64" y="218.44" size="1.778" layer="96" font="vector"/>
+</instance>
+<instance part="RX5" gate="G$1" x="246.38" y="132.08" smashed="yes" rot="R90">
+<attribute name="VALUE" x="248.92" y="129.54" size="1.778" layer="96" font="vector" rot="R90"/>
+</instance>
+<instance part="RX6" gate="G$1" x="246.38" y="88.9" smashed="yes" rot="R90">
+<attribute name="VALUE" x="248.92" y="86.36" size="1.778" layer="96" font="vector" rot="R90"/>
+</instance>
+<instance part="RX7" gate="G$1" x="160.02" y="233.68" smashed="yes" rot="R180">
+<attribute name="VALUE" x="162.56" y="236.22" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="RX8" gate="G$1" x="152.4" y="241.3" smashed="yes" rot="R90">
+<attribute name="VALUE" x="154.94" y="238.76" size="1.778" layer="96" font="vector" rot="R90"/>
+</instance>
+<instance part="RX9" gate="G$1" x="152.4" y="231.14" smashed="yes" rot="R270">
+<attribute name="VALUE" x="149.86" y="233.68" size="1.778" layer="96" font="vector" rot="R270"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -12865,10 +12780,6 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="180.34" y1="109.22" x2="180.34" y2="111.76" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R11" gate="G$1" pin="2"/>
-<pinref part="GND13" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="C2" gate="G$1" pin="1"/>
 <pinref part="GND15" gate="1" pin="GND"/>
 <wire x1="218.44" y1="139.7" x2="208.28" y2="139.7" width="0.1524" layer="91"/>
@@ -12945,6 +12856,12 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="R31" gate="G$1" pin="2"/>
 <wire x1="381.762" y1="275.844" x2="376.682" y2="275.844" width="0.1524" layer="91"/>
 <junction x="381.762" y="275.844"/>
+<pinref part="R32" gate="G$1" pin="2"/>
+<wire x1="403.098" y1="285.496" x2="398.018" y2="285.496" width="0.1524" layer="91"/>
+<junction x="398.018" y="285.496"/>
+<pinref part="R32" gate="G$1" pin="1"/>
+<wire x1="403.098" y1="275.336" x2="398.018" y2="275.336" width="0.1524" layer="91"/>
+<junction x="398.018" y="275.336"/>
 </segment>
 <segment>
 <pinref part="R12" gate="1" pin="E"/>
@@ -13264,9 +13181,13 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="IC1" gate="G$1" pin="A9"/>
 <label x="292.1" y="106.68" size="1.778" layer="95"/>
 <pinref part="IC4" gate="A" pin="QA"/>
-<wire x1="236.22" y1="129.54" x2="259.08" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="129.54" x2="246.38" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="129.54" x2="259.08" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="259.08" y1="129.54" x2="259.08" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="259.08" y1="106.68" x2="297.18" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="RX5" gate="G$1" pin="1"/>
+<wire x1="246.38" y1="129.54" x2="246.38" y2="132.08" width="0.1524" layer="91"/>
+<junction x="246.38" y="129.54"/>
 </segment>
 </net>
 <net name="I/O0" class="0">
@@ -13425,7 +13346,8 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="IC1" gate="G$1" pin="D0"/>
 <label x="322.58" y="96.52" size="1.778" layer="95"/>
 <pinref part="IC5" gate="A" pin="QA"/>
-<wire x1="236.22" y1="86.36" x2="281.94" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="86.36" x2="246.38" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="86.36" x2="281.94" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="281.94" y1="86.36" x2="281.94" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="281.94" y1="63.5" x2="335.28" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="335.28" y1="63.5" x2="335.28" y2="91.44" width="0.1524" layer="91"/>
@@ -13437,6 +13359,9 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="325.12" y1="96.52" x2="322.58" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="91.44" x2="325.12" y2="96.52" width="0.1524" layer="91"/>
 <junction x="325.12" y="96.52"/>
+<pinref part="RX6" gate="G$1" pin="1"/>
+<wire x1="246.38" y1="88.9" x2="246.38" y2="86.36" width="0.1524" layer="91"/>
+<junction x="246.38" y="86.36"/>
 </segment>
 </net>
 <net name="I/O4" class="0">
@@ -13497,12 +13422,14 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <label x="287.02" y="236.22" size="1.778" layer="95"/>
 <wire x1="281.94" y1="236.22" x2="306.324" y2="236.22" width="0.1524" layer="91"/>
 <pinref part="R22" gate="G$1" pin="1"/>
-<wire x1="307.34" y1="236.22" x2="317.5" y2="236.22" width="0.1524" layer="91"/>
+<wire x1="306.324" y1="236.22" x2="317.5" y2="236.22" width="0.1524" layer="91"/>
 <wire x1="317.5" y1="236.22" x2="317.5" y2="237.998" width="0.1524" layer="91"/>
 <wire x1="317.5" y1="237.998" x2="316.484" y2="237.998" width="0.1524" layer="91"/>
 <pinref part="R22" gate="G$1" pin="2"/>
 <wire x1="306.324" y1="237.998" x2="306.324" y2="236.22" width="0.1524" layer="91"/>
-<wire x1="306.324" y1="236.22" x2="307.34" y2="236.22" width="0.1524" layer="91"/>
+<pinref part="RX3" gate="G$1" pin="1"/>
+<wire x1="322.58" y1="236.22" x2="317.5" y2="236.22" width="0.1524" layer="91"/>
+<junction x="317.5" y="236.22"/>
 </segment>
 <segment>
 <pinref part="IC5" gate="A" pin="RCK"/>
@@ -13524,10 +13451,6 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="241.3" y1="96.52" x2="241.3" y2="106.68" width="0.1524" layer="91"/>
 <pinref part="IC4" gate="A" pin="RCO"/>
 <wire x1="241.3" y1="106.68" x2="236.22" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="R11" gate="G$1" pin="1"/>
-<wire x1="248.92" y1="104.14" x2="248.92" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="248.92" y1="106.68" x2="241.3" y2="106.68" width="0.1524" layer="91"/>
-<junction x="241.3" y="106.68"/>
 </segment>
 </net>
 <net name="N$12" class="0">
@@ -13554,6 +13477,12 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="R15" gate="G$1" pin="1"/>
 <wire x1="198.12" y1="109.22" x2="200.66" y2="109.22" width="0.1524" layer="91"/>
 <junction x="200.66" y="109.22"/>
+<pinref part="R34" gate="G$1" pin="2"/>
+<wire x1="195.58" y1="119.38" x2="198.12" y2="119.38" width="0.1524" layer="91"/>
+<junction x="198.12" y="119.38"/>
+<pinref part="R34" gate="G$1" pin="1"/>
+<wire x1="195.58" y1="109.22" x2="198.12" y2="109.22" width="0.1524" layer="91"/>
+<junction x="198.12" y="109.22"/>
 </segment>
 </net>
 <net name="I/O1" class="0">
@@ -13573,9 +13502,10 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 </segment>
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
-<wire x1="160.02" y1="236.22" x2="148.844" y2="236.22" width="0.1524" layer="91"/>
+<wire x1="160.02" y1="236.22" x2="152.4" y2="236.22" width="0.1524" layer="91"/>
 <label x="149.86" y="236.22" size="1.778" layer="95"/>
 <pinref part="R29" gate="G$1" pin="1"/>
+<wire x1="152.4" y1="236.22" x2="148.844" y2="236.22" width="0.1524" layer="91"/>
 <wire x1="148.844" y1="236.22" x2="148.844" y2="235.458" width="0.1524" layer="91"/>
 <wire x1="148.844" y1="233.68" x2="148.844" y2="235.458" width="0.1524" layer="91"/>
 <junction x="148.844" y="235.458"/>
@@ -13585,6 +13515,9 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="137.16" y1="233.68" x2="149.86" y2="233.68" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="233.68" x2="149.86" y2="235.458" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="235.458" x2="148.844" y2="235.458" width="0.1524" layer="91"/>
+<pinref part="RX9" gate="G$1" pin="1"/>
+<wire x1="152.4" y1="231.14" x2="152.4" y2="236.22" width="0.1524" layer="91"/>
+<junction x="152.4" y="236.22"/>
 </segment>
 </net>
 <net name="VGA_14" class="0">
@@ -13617,13 +13550,17 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="R5" gate="G$1" pin="1"/>
 <label x="149.86" y="238.76" size="1.778" layer="95"/>
 <pinref part="R28" gate="G$1" pin="2"/>
-<wire x1="160.02" y1="238.76" x2="149.86" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="160.02" y1="238.76" x2="152.4" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="238.76" x2="149.86" y2="238.76" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="238.76" x2="138.684" y2="238.76" width="0.1524" layer="91"/>
 <wire x1="138.684" y1="238.76" x2="138.684" y2="240.538" width="0.1524" layer="91"/>
 <pinref part="R28" gate="G$1" pin="1"/>
 <wire x1="148.844" y1="240.538" x2="149.86" y2="240.538" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="240.538" x2="149.86" y2="238.76" width="0.1524" layer="91"/>
 <junction x="149.86" y="238.76"/>
+<pinref part="RX8" gate="G$1" pin="1"/>
+<wire x1="152.4" y1="241.3" x2="152.4" y2="238.76" width="0.1524" layer="91"/>
+<junction x="152.4" y="238.76"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -13734,8 +13671,9 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 </segment>
 <segment>
 <pinref part="U4" gate="U1" pin="PB2(SS/OC1B)"/>
-<wire x1="281.94" y1="220.98" x2="294.64" y2="220.98" width="0.1524" layer="91"/>
+<wire x1="281.94" y1="220.98" x2="297.18" y2="220.98" width="0.1524" layer="91"/>
 <label x="287.02" y="220.98" size="1.778" layer="95"/>
+<pinref part="RX4" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="EEP_!OE" class="0">
@@ -13754,6 +13692,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="U4" gate="U1" pin="PD4(XCK/T0)"/>
 <wire x1="281.94" y1="238.76" x2="299.72" y2="238.76" width="0.1524" layer="91"/>
 <label x="287.02" y="238.76" size="1.778" layer="95"/>
+<pinref part="RX2" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="EN_0" class="0">
@@ -13833,6 +13772,19 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <pinref part="X2" gate="-1" pin="3"/>
 <pinref part="J6" gate="G$1" pin="6"/>
 <wire x1="172.72" y1="200.66" x2="144.78" y2="200.66" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$17" class="0">
+<segment>
+<pinref part="X1" gate="-1" pin="3"/>
+<pinref part="R33" gate="G$1" pin="2"/>
+<wire x1="172.72" y1="233.68" x2="170.18" y2="233.68" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$19" class="0">
+<segment>
+<pinref part="R33" gate="G$1" pin="1"/>
+<pinref part="RX7" gate="G$1" pin="1"/>
 </segment>
 </net>
 </nets>
